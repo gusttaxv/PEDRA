@@ -1,0 +1,38 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fcecec;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+img{
+    
+    height: 230px;;
+}
+
+select{
+    width: 230px ;
+    height: 120px;
+    font-size: larger;
+    position: relative;
+    top: 520px;
+    right: -100px ;
+
+}
+h1{
+    margin-top: 255px;
+    margin-left: 67px;
+}
+label{
+    margin-top: 50px;
+}
+.po{
+    font-size:70px;
+    position: relative;
+    top: -135px;
+    right: -45px;
+}
